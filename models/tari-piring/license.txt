@@ -1,0 +1,11 @@
+Model Information:
+* title:	Dance Plate
+* source:	https://sketchfab.com/3d-models/dance-plate-c18a044498fb40618957721149c51781
+* author:	heisupay (https://sketchfab.com/heisupay)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Dance Plate" (https://sketchfab.com/3d-models/dance-plate-c18a044498fb40618957721149c51781) by heisupay (https://sketchfab.com/heisupay) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Dance Gong
+* source:	https://sketchfab.com/3d-models/dance-gong-201ede8639f04ce29bad92de8efee0f2
+* author:	heisupay (https://sketchfab.com/heisupay)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Dance Gong" (https://sketchfab.com/3d-models/dance-gong-201ede8639f04ce29bad92de8efee0f2) by heisupay (https://sketchfab.com/heisupay) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AR - Dery Saeful Nurhalim - Tari Indonesia</title>
+    <script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/donmccurdy/aframe-extras@v6.1.0/dist/aframe-extras.min.js"></script>
+    <script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar.js"></script>
+</head>
+<body style="margin: 0px; overflow: hidden;">
+    <a-scene embedded arjs="detectionMode:mono_and_matrix; matrixCodeType:3x3_PARITY65">
+
+        <!-- Marker Custom Tari Pendet -->
+        <a-marker type="pattern" url="patt/pattern-tari-pendet.patt">
+            <a-entity
+                position="0 0.5 0" 
+                scale="0.5 0.5 0.5"
+                rotation="-90 0 0"
+                gltf-model="/models/tari-pendet/tari-pendet.gltf"
+            />
+        </a-marker>
+
+        <!-- Marker Custom Tari Piring -->
+        <a-marker type="pattern" url="patt/pattern-tari-piring.patt">
+            <a-entity
+                position="0 0.5 0" 
+                scale="0.5 0.5 0.5"
+                rotation="-90 0 0"
+                gltf-model="/models/tari-piring/tari-piring.gltf"
+            />
+        </a-marker>
+
+        <!-- Marker Custom Tari Kipas -->
+        <a-marker type="pattern" url="patt/pattern-tari-kipas.patt">
+            <a-entity
+                position="0 0.5 0" 
+                scale="0.5 0.5 0.5"
+                rotation="-90 0 0"
+                gltf-model="/models/tari-kipas/tari-kipas.gltf"
+            />
+        </a-marker>
+
+        <!-- Marker Custom Tari Gong -->
+        <a-marker type="pattern" url="patt/pattern-tari-gong.patt">
+            <a-entity
+                position="0 0.5 0" 
+                scale="0.5 0.5 0.5"
+                rotation="-90 0 0"
+                gltf-model="/models/tari-gong/tari-gong.gltf"
+            />
+        </a-marker>
+
+        <a-entity camera> 
+            <a-cursor></a-cursor>
+        </a-entity>
+</body>
+</html>
+
